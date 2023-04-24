@@ -1,6 +1,6 @@
 # EE242 Signals, Systems, and Data I Repository
 
-This repository contains all the work done in the EE242 course at [University Name]. EE242 is an introduction to signal processing, focusing on both continuous- and discrete-time signals and systems. The course covers basic signals, convolution, Fourier series and transforms, and linear, time-invariant filters. A computer laboratory is included to provide hands-on experience with the concepts.
+This repository contains all the work done in the EE242 course at The University of Washington. EE242 is an introduction to signal processing, focusing on both continuous- and discrete-time signals and systems. The course covers basic signals, convolution, Fourier series and transforms, and linear, time-invariant filters. A computer laboratory is included to provide hands-on experience with the concepts.
 
 ## Table of Contents
 
